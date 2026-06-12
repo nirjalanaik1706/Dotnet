@@ -1,0 +1,14 @@
+D:\TAP\GITHUB\DOTNET\HRApp\bin\Debug\net10.0\HRApp.exe
+D:\TAP\GITHUB\DOTNET\HRApp\bin\Debug\net10.0\HRApp.deps.json
+D:\TAP\GITHUB\DOTNET\HRApp\bin\Debug\net10.0\HRApp.runtimeconfig.json
+D:\TAP\GITHUB\DOTNET\HRApp\bin\Debug\net10.0\HRApp.dll
+D:\TAP\GITHUB\DOTNET\HRApp\bin\Debug\net10.0\HRApp.pdb
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.AssemblyInfo.cs
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.dll
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\refint\HRApp.dll
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.pdb
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\HRApp.genruntimeconfig.cache
+D:\TAP\GITHUB\DOTNET\HRApp\obj\Debug\net10.0\ref\HRApp.dll
