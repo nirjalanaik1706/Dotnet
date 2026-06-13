@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.sourcelink.json
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\bin\Debug\net10.0\InsuranceManagementApp.exe
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\bin\Debug\net10.0\InsuranceManagementApp.deps.json
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\bin\Debug\net10.0\InsuranceManagementApp.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\bin\Debug\net10.0\InsuranceManagementApp.dll
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\bin\Debug\net10.0\InsuranceManagementApp.pdb
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.dll
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\refint\InsuranceManagementApp.dll
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.pdb
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\InsuranceManagementApp.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\InsuranceManagementApp\obj\Debug\net10.0\ref\InsuranceManagementApp.dll
