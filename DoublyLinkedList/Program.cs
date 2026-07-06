@@ -1,6 +1,7 @@
 ﻿namespace tfldsa.main;
 using TFLDSA.Node;
 using TFLDSA.DoublyLinkedList;
+using System.Buffers;
 
 public class Program
 {
@@ -10,18 +11,24 @@ public class Program
         dl.insertAtEnd(23);
         dl.insertAtEnd(24);
         dl.insertAtEnd(30);
-        dl.insertInMiddle(70);
+        Console.WriteLine("\n After Insert At end: ");
+        dl.display();
 
-        dl.display();
-        Console.WriteLine();
         dl.insertInFront(0);
+        Console.WriteLine("\n After Insert In Middle : ");
+        dl.display();
+
+        // dl.insertInMiddle(70);
         dl.insertInMiddle(90);
+        Console.WriteLine("\nAfter inserting in middle: ");
         dl.display();
-        Console.WriteLine();
-        dl.update(90,10);
+
+        dl.update(30,999);
+        Console.WriteLine("\n After Update : ");
         dl.display();
-        Console.WriteLine();
-        dl.delete(70);
+
+        dl.delete(23);
+        Console.WriteLine("\n After Delete: ");
         dl.display();
     }
 }

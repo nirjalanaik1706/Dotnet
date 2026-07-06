@@ -7,15 +7,23 @@ public class DoublyLinkedList
 {
 
     Node head=null;    
-    
 
     public void insertInFront(int data)
     {
         Node newData=new Node(data);
-        newData.next=head;
-        head=newData;
+        if (head == null)
+        {
+            head=newData; 
+        }
+        else
+        {
+            head.previous=newData;
+            newData.next=head;
+            head=newData;
+        }
 
     }
+
     public void insertAtEnd(int data)
     {
         Node newData = new Node(data);
@@ -34,23 +42,39 @@ public class DoublyLinkedList
             
         }
     }
-
-    public void insertInMiddle(int data)
+    
+        public void insertInMiddle(int data)
     {
-        Node newData=new Node(data);
-        Node current;
-        current=head;
-            while (current.next!=null&&current.next.data < data)
-            {
-                current=current.next;
-            }
-            newData.next=current.next;
-            current.next=newData;
-            newData.previous=current;
-            current.next.previous=newData;
-            
-
-        
+        Node newData = new Node(data);
+        if (head == null)
+        {
+            head = newData;
+            return;
+        }
+        if (data < head.data)
+        {
+            newData.next = head;
+            head.previous = newData;
+            head = newData;
+            return;
+        }
+        Node current = head;
+        while (current.next != null && current.next.data < data)
+        {
+            current = current.next;
+        }
+        if (current.next == null)
+        {
+            current.next = newData;
+            newData.previous = current;
+        }
+        else
+        {
+            newData.next = current.next;
+            current.next.previous = newData;
+            newData.previous = current;
+            current.next = newData;
+        }
     }
 
     public void update(int oldData,int newData)
@@ -71,7 +95,6 @@ public class DoublyLinkedList
 
     public void delete(int data)
     {
-            Node current=head;
         if (head.data == data)
         {
             if (head.next == null)
@@ -85,6 +108,7 @@ public class DoublyLinkedList
         }
         else
         {
+            Node current=head;
             while (current.next.data != data)
             {
                 current=current.next;
@@ -96,10 +120,12 @@ public class DoublyLinkedList
             else
             {
                 current.next=current.next.next;
-                current.next.next=
+                current.next.previous=current;
             }
         }
     }
+    
+    
     // public void display()
     // {
     //     Node current = head;
@@ -109,11 +135,12 @@ public class DoublyLinkedList
     //         current = current.next;
     //     }
     // }
+    
     public void display()
         {
             Node last=null;;
             Node current = head;
-            Console.WriteLine("\n\n\nNext Element: ");
+            Console.WriteLine("\nNext Elements traversing: ");
             Console.Write("null--->");
             while (current != null)
             {
@@ -121,15 +148,15 @@ public class DoublyLinkedList
                 last=current;
                 current = current.next;
             }
-            Console.Write("null\n");
-            // Console.WriteLine("Prev Element");
-            // Console.Write("null");
-            // current=last;
-            // while (current != null)
-            // {
-            //     Console.Write("<---"+ current.data);
-            //     current = current.previous;
-            // }
-            // Console.Write("<---null");
+            // Console.Write("null\n");
+            Console.WriteLine("\nPrevious Elements traversing: ");
+            Console.Write("null");
+            current=last;
+            while (current != null)
+            {
+                Console.Write("<---"+ current.data);
+                current = current.previous;
+            }
+            Console.Write("<---null");
         }
 }
