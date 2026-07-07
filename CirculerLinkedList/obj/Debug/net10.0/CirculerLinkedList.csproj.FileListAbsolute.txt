@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\bin\Debug\net10.0\CirculerLinkedList.exe
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\bin\Debug\net10.0\CirculerLinkedList.deps.json
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\bin\Debug\net10.0\CirculerLinkedList.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\bin\Debug\net10.0\CirculerLinkedList.dll
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\bin\Debug\net10.0\CirculerLinkedList.pdb
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.sourcelink.json
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.dll
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\refint\CirculerLinkedList.dll
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.pdb
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\CirculerLinkedList.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\CirculerLinkedList\obj\Debug\net10.0\ref\CirculerLinkedList.dll
