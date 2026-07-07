@@ -11,10 +11,13 @@ public class Program
         list.insertAtFront(60);
         list.insertAtFront(30);
         list.insertAtFront(20);
+        Console.WriteLine("After Inserting a data at Front: ");
         list.display();
         list.insertAtMiddle(35);
+        Console.WriteLine("After Inserting a data in Middle: ");
         list.display();
         list.insertAtEnd(80);
+        Console.WriteLine("After Inserting a data at End");
         list.display();
     }
 }
