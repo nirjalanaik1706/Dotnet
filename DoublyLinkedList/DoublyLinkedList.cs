@@ -6,7 +6,8 @@ using TFLDSA.Node;
 public class DoublyLinkedList
 {
 
-    Node head=null;    
+    Node head=null; 
+    Node tail=null;   
 
     public void insertInFront(int data)
     {
@@ -14,6 +15,7 @@ public class DoublyLinkedList
         if (head == null)
         {
             head=newData; 
+            tail=head;
         }
         else
         {
@@ -24,8 +26,7 @@ public class DoublyLinkedList
 
     }
 
-    public void insertAtEnd(int data)
-    {
+    public void insertAtEnd(int data){
         Node newData = new Node(data);
         if (head == null)
         {
@@ -39,12 +40,12 @@ public class DoublyLinkedList
             }
             current.next=newData;
             newData.previous=current;
+            tail=newData;
             
         }
     }
     
-        public void insertInMiddle(int data)
-    {
+        public void insertInMiddle(int data){
         Node newData = new Node(data);
         if (head == null)
         {
@@ -100,6 +101,7 @@ public class DoublyLinkedList
             if (head.next == null)
             {
                 head=null;
+                tail=null;
             }
             else
             {
@@ -116,6 +118,7 @@ public class DoublyLinkedList
             if (current.next.next == null)
             {
                 current.next=null;
+                tail=current;
             }
             else
             {
@@ -126,37 +129,30 @@ public class DoublyLinkedList
     }
     
     
-    // public void display()
-    // {
-    //     Node current = head;
-    //     while (current != null)
-    //     {
-    //         Console.Write(current.data + "--->");
-    //         current = current.next;
-    //     }
-    // }
-    
-    public void display()
+    public void displayFromHead()
         {
-            Node last=null;;
+            
             Node current = head;
             Console.WriteLine("\nNext Elements traversing: ");
             Console.Write("null--->");
             while (current != null)
             {
                 Console.Write(current.data+"--->");
-                last=current;
                 current = current.next;
             }
-            // Console.Write("null\n");
-            Console.WriteLine("\nPrevious Elements traversing: ");
             Console.Write("null");
-            current=last;
+        }
+
+        public void displayFromTail()
+    {
+        Console.WriteLine("\nPrevious Elements traversing: ");
+            Console.Write("null");
+            Node current=tail;
             while (current != null)
             {
                 Console.Write("<---"+ current.data);
                 current = current.previous;
             }
             Console.Write("<---null");
-        }
-}
+    }
+    }
