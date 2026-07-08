@@ -1,11 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "NGHTTWSKFcE=",
+  "dgSpecHash": "rKHyRYrBlvI=",
   "success": true,
-  "projectFilePath": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+  "projectFilePath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nirjala\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
     "C:\\Users\\Nirjala\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

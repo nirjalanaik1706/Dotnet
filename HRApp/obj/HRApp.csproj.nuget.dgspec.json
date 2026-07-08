@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\GITHUB\\DOTNET\\HRApp\\HRApp.csproj": {}
+    "D:\\TAP\\GITHUB\\Dotnet\\HRApp\\HRApp.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\GITHUB\\DOTNET\\HRApp\\HRApp.csproj": {
+    "D:\\TAP\\GITHUB\\Dotnet\\HRApp\\HRApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\GITHUB\\DOTNET\\HRApp\\HRApp.csproj",
+        "projectUniqueName": "D:\\TAP\\GITHUB\\Dotnet\\HRApp\\HRApp.csproj",
         "projectName": "HRApp",
-        "projectPath": "D:\\TAP\\GITHUB\\DOTNET\\HRApp\\HRApp.csproj",
+        "projectPath": "D:\\TAP\\GITHUB\\Dotnet\\HRApp\\HRApp.csproj",
         "packagesPath": "C:\\Users\\Nirjala\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\GITHUB\\DOTNET\\HRApp\\obj\\",
+        "outputPath": "D:\\TAP\\GITHUB\\Dotnet\\HRApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nirjala\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj": {}
+    "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj": {
+    "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
         "projectName": "InsuranceRestAPIApp",
-        "projectPath": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+        "projectPath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
         "packagesPath": "C:\\Users\\Nirjala\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\obj\\",
+        "outputPath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nirjala\\AppData\\Roaming\\NuGet\\NuGet.Config"

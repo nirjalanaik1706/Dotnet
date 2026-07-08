@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "projectUniqueName": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
       "projectName": "InsuranceRestAPIApp",
-      "projectPath": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "projectPath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
       "packagesPath": "C:\\Users\\Nirjala\\.nuget\\packages\\",
-      "outputPath": "D:\\TAP\\GITHUB\\Dotnet\\InsuranceRestAPIApp\\obj\\",
+      "outputPath": "C:\\Users\\Nirjala\\Downloads\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nirjala\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -566,5 +566,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
