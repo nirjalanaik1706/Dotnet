@@ -19,5 +19,11 @@ public class Program
         list.insertAtEnd(80);
         Console.WriteLine("After Inserting a data at End");
         list.display();
+        list.Update(20,50);
+        Console.WriteLine("After Updating a value: ");
+        list.display();
+        list.delete(50);
+        Console.WriteLine("After deleting a data: ");
+        list.display();
     }
 }

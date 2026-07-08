@@ -5,9 +5,6 @@ using TFLDSA.Collections.CirculerList;
 public class CirculerLinkedList
 {
     CirculerNode head = null;
-    CirculerNode tail = null;
-
-
     public void insertAtFront(int data)
     {
         CirculerNode newData = new CirculerNode(data);
@@ -64,6 +61,57 @@ public class CirculerLinkedList
         current.next = newData;
     }
 
+    public void Update(int oldData, int newData)
+    {
+        CirculerNode current = head;
+        while (current.data != oldData)
+        {
+            current = current.next;
+        }
+        current.data = newData;
+
+    }
+
+    public void delete(int data)
+    {
+        CirculerNode current = head;
+        if (head.data == data)
+        {
+            if (head.next == head)
+            {
+                head = null;
+            }
+            else
+            {
+                while (current.next != head)
+                {
+                    current = current.next;
+                }
+
+                current.next = head.next;
+                head = head.next;
+            }
+        }
+        else
+        {
+            current = head;
+            while (current.next != head && current.next.data != data)
+            {
+                current = current.next;
+            }
+
+            if (current.next.data == data)
+            {
+                current.next = current.next.next;
+            }
+            else
+            {
+                Console.WriteLine("Node not found.");
+            }
+        }
+    }
+
+
     public void display()
     {
         CirculerNode current = head;
@@ -76,3 +124,4 @@ public class CirculerLinkedList
         Console.WriteLine(current.data + "---->");
     }
 }
+
