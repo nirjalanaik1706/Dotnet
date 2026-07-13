@@ -13,6 +13,7 @@ public class Program
             count++;
         }
 
-        Console.WriteLine(count);
+        Console.WriteLine("Withouot Library Function: "+count);
+        Console.WriteLine("With Library Function Length : "+str.Length);
     }
 }
