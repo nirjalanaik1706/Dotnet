@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisConnected")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5ce8cfa864d8ee2e8b6b70392ce74a18a81399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e46701a81000b659e71493e25734c49f657e63d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisConnected")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisConnected")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

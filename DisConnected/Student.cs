@@ -1,6 +1,6 @@
 namespace DisConnected;
 
-public class Product
+public class Student
 {
     public int Id{get;set;}
     public string First_name{get;set;}
