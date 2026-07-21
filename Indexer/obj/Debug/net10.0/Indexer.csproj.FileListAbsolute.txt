@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\Indexer\bin\Debug\net10.0\Indexer.exe
+D:\TAP\GITHUB\Dotnet\Indexer\bin\Debug\net10.0\Indexer.deps.json
+D:\TAP\GITHUB\Dotnet\Indexer\bin\Debug\net10.0\Indexer.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\Indexer\bin\Debug\net10.0\Indexer.dll
+D:\TAP\GITHUB\Dotnet\Indexer\bin\Debug\net10.0\Indexer.pdb
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.sourcelink.json
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.dll
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\refint\Indexer.dll
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.pdb
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\Indexer.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\Indexer\obj\Debug\net10.0\ref\Indexer.dll
