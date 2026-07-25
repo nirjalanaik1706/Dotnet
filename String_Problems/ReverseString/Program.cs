@@ -9,7 +9,8 @@ public class Program
 
         for (int i = str.Length - 1; i >= 0; i--)
         {
-            revStr += str[i];
+            revStr += str[i];     //INSTEAD OF WRITTING ---> revStr = revStr+str[i];
+            
         }
         Console.WriteLine("Reverse string: " + revStr);
 

@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\bin\Debug\net10.0\ConvertUpperTOLower.exe
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\bin\Debug\net10.0\ConvertUpperTOLower.deps.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\bin\Debug\net10.0\ConvertUpperTOLower.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\bin\Debug\net10.0\ConvertUpperTOLower.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\bin\Debug\net10.0\ConvertUpperTOLower.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.sourcelink.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\refint\ConvertUpperTOLower.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ConvertUpperTOLower.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertUpperTOLower\obj\Debug\net10.0\ref\ConvertUpperTOLower.dll

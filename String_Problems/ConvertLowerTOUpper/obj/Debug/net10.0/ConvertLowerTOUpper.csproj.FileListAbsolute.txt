@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\bin\Debug\net10.0\ConvertLowerTOUpper.exe
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\bin\Debug\net10.0\ConvertLowerTOUpper.deps.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\bin\Debug\net10.0\ConvertLowerTOUpper.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\bin\Debug\net10.0\ConvertLowerTOUpper.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\bin\Debug\net10.0\ConvertLowerTOUpper.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.sourcelink.json
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\refint\ConvertLowerTOUpper.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ConvertLowerTOUpper.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\ConvertLowerTOUpper\obj\Debug\net10.0\ref\ConvertLowerTOUpper.dll

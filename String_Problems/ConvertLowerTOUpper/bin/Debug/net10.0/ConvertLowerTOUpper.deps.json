@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConvertLowerTOUpper/1.0.0": {
+        "runtime": {
+          "ConvertLowerTOUpper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertLowerTOUpper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

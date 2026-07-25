@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\bin\Debug\net10.0\Vowels and consonants.exe
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\bin\Debug\net10.0\Vowels and consonants.deps.json
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\bin\Debug\net10.0\Vowels and consonants.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\bin\Debug\net10.0\Vowels and consonants.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\bin\Debug\net10.0\Vowels and consonants.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.sourcelink.json
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\refint\Vowels and consonants.dll
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.pdb
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\Vowels and consonants.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\String_Problems\Vowels and consonants\obj\Debug\net10.0\ref\Vowels and consonants.dll
