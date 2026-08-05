@@ -1,0 +1,18 @@
+@model List<Student>
+
+<table>
+
+@foreach(var student in Model)
+{
+<tr>
+
+<td>@student.Id</td>
+
+<td>@student.Name</td>
+
+<td>@student.City</td>
+
+</tr>
+}
+
+</table>
