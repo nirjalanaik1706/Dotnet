@@ -1,27 +1,25 @@
 using Microsoft.AspNetCore.Mvc;
-
+using Microsoft.AspNetCore.Mvc.ActionConstraints;
 using RazorPages.Models;
 namespace ECommercePortal.Controllers;
 
 public class AuthController : Controller
 {
-    
     [HttpGet]
     public IActionResult Login()
     {
-        Credential credential = new Credential();
-        credential.UserName = "";
-        credential.Password = "";
-
-        return View(credential);
+        Credential c=new Credential();
+        c.UserName="";
+        c.Password="";
+        return View(c);
     }
 
     [HttpPost]
-    public IActionResult Login(Credential credential)
+    public IActionResult Login(Credential c)
     {
-        if(credential.UserName=="admin" && credential.Password=="transflower")
+        if(c.UserName=="admin"&& c.Password == "nirjala")
         {
-            return RedirectToAction("Welcome", "Home");
+            return RedirectToAction("Welcome","Home");
         }
         else
         {
@@ -29,27 +27,23 @@ public class AuthController : Controller
         }
     }
 
-
     [HttpGet]
     public IActionResult Register()
     {
+        Customer c=new Customer();
+        c.Name="";
+        c.Email="";
+        c.Phone="";
+        c.Id=2;
 
-        Customer customer = new Customer();
-        customer.Name = "";
-        customer.Email = "";
-        customer.Phone = "";
-        customer.Id =2;
-
-        return   View(customer);
+        return View(c);
     }
 
     [HttpPost]
-    public IActionResult Register(Customer customer)
+    public IActionResult Register(Customer c)
     {
-        //Logic to register a new user
-        //store it inside json file or database
-        Console.WriteLine($"New user registered: {customer.Name}, {customer.Email}, {customer.Phone}");
-        return  RedirectToAction("Login");
+        Console.WriteLine($"new user registered: {c.Name},{c.Email},{c.Phone}");
+        return RedirectToAction("Login");
     }
 
     public IActionResult ChangePassword()
