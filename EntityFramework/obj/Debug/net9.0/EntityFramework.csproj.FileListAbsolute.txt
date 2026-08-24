@@ -1,0 +1,8 @@
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.csproj.AssemblyReference.cache
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.MvcApplicationPartsAssemblyInfo.cache
+D:\TAP\GITHUB\Dotnet\EntityFramework\obj\Debug\net9.0\EntityFramework.sourcelink.json
