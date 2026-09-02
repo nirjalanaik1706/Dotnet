@@ -18,7 +18,7 @@ public class Program
         Console.WriteLine("\n After Insert In Middle : ");
         dl.displayFromHead();
 
-        // dl.insertInMiddle(70);
+      
         dl.insertInMiddle(90);
         Console.WriteLine("\nAfter inserting in middle: ");
         dl.displayFromHead();
