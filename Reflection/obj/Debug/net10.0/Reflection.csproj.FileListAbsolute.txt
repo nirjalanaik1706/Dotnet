@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Dotnet\Reflection\bin\Debug\net10.0\Reflection.exe
+D:\TAP\GITHUB\Dotnet\Reflection\bin\Debug\net10.0\Reflection.deps.json
+D:\TAP\GITHUB\Dotnet\Reflection\bin\Debug\net10.0\Reflection.runtimeconfig.json
+D:\TAP\GITHUB\Dotnet\Reflection\bin\Debug\net10.0\Reflection.dll
+D:\TAP\GITHUB\Dotnet\Reflection\bin\Debug\net10.0\Reflection.pdb
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.AssemblyInfo.cs
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.sourcelink.json
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.dll
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\refint\Reflection.dll
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.pdb
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\Reflection.genruntimeconfig.cache
+D:\TAP\GITHUB\Dotnet\Reflection\obj\Debug\net10.0\ref\Reflection.dll
